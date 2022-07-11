@@ -2,6 +2,7 @@
 
 - [Python Handbook](https://leven-cn.github.io/python-handbook) ([View on GitHub](https://github.com/leven-cn/python-handbook)): a missing manual for Python.
 - [Python Cookbook](https://leven-cn.github.io/python-cookbook) ([View on GitHub](https://github.com/leven-cn/python-cookbook)): a practical recipes for Python.
+- [Awesome Python Books](https://leven-cn.github.io/awesome-python-books) ([View on GitHub](https://github.com/leven-cn/awesome-python-books)): A list of awesome Python books.
 
 ## Cookbook
 
