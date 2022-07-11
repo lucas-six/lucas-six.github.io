@@ -1,8 +1,8 @@
-#title: Li Yun
+title: Lee
 #description: 在正确的时间，做正确的事。
 #google_analytics: 
-#show_downloads: false
+show_downloads: false
 theme: jekyll-theme-architect
 
-#gems:
-#  - jekyll-mentions
+gems:
+ - jekyll-mentions
