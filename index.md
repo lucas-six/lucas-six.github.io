@@ -2,7 +2,7 @@
 
 ## Python
 
-- [Python Cookbook](https://leven-cn.github.io/python-cookbook) ([View on GitHub](https://github.com/leven-cn/python-cookbook)): Recipes for Python.
+- [Python Cookbook](https://leven-cn.github.io/python-cookbook) ([View on GitHub](https://github.com/leven-cn/python-cookbook)): Recipes for Python. Hands-on code examples, snippets and guides for daily work.
 - [Python Handbook](https://leven-cn.github.io/python-handbook) ([View on GitHub](https://github.com/leven-cn/python-handbook)): a missing manual, hands-on guide for Python.
 - [Awesome Python Books](https://leven-cn.github.io/awesome-python-books) ([View on GitHub](https://github.com/leven-cn/awesome-python-books)): A list of awesome Python books.
 
