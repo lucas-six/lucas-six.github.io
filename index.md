@@ -9,6 +9,7 @@
 ## Linux
 
 - [Bash Cookbook](https://lucas-six.github.io/bash-cookbook/) ([View on GitHub](https://github.com/lucas-six/bash-cookbook))
+- [Linux Cookbook](https://lucas-six.github.io/linux-cookbook/) ([View on GitHub](https://github.com/lucas-six/linux-cookbook))
 
 ## DevOps
 
